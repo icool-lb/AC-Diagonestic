@@ -1,0 +1,114 @@
+{
+  "daikin_official_error_codes": {
+    "brand": "Daikin",
+    "source_type": "official",
+    "title": "Daikin India Error Codes",
+    "url": "https://www.daikinindia.com/product-services/product-services/error-codes",
+    "notes": "Official web list covering split, cassette, floor standing, ducted and VRV categories."
+  },
+  "midea_highwall_error_booklet": {
+    "brand": "Midea",
+    "source_type": "regional_official",
+    "title": "Midea UK High Wall System Error Codes & Fault Diagnosis",
+    "url": "https://mideauk.co.uk/wp-content/uploads/2020/09/Error-Fixing-RAC_.pdf",
+    "notes": "Residential high-wall inverter troubleshooting booklet."
+  },
+  "midea_v8_vrf_service_manual": {
+    "brand": "Midea",
+    "source_type": "official",
+    "title": "Midea V8 Series VRF Indoor Units Service Manual",
+    "url": "https://air-midea.com/upload/iblock/b79/w269qvholq556s0kv9r9qtxnp2zwx9ax.pdf",
+    "notes": "VRF indoor units / AHU kit troubleshooting guide."
+  },
+  "midea_mthermal_service_manual": {
+    "brand": "Midea",
+    "source_type": "regional_official",
+    "title": "Midea M-Thermal Heat Pump Service Manual",
+    "url": "https://www.midea.com.ua/sites/default/files/downloadables-documents/pdf/sm-midea-series-split-m-thermal-heat-pump-20200424-v31.pdf",
+    "notes": "Contains inverter module protection codes L0/L1/L2/L4/L5/L8."
+  },
+  "gree_umatch_service_manual": {
+    "brand": "Gree",
+    "source_type": "official",
+    "title": "GREE U-Match Service Manual",
+    "url": "https://www.greecomfort.com/assets/our-products/u-match/documents/u-match-service-manual-a.pdf",
+    "notes": "U-Match DC inverter series for cassette, duct, floor-ceiling."
+  },
+  "gree_official_faq_codes": {
+    "brand": "Gree",
+    "source_type": "official",
+    "title": "GREE Comfort FAQs / Error Code Meanings",
+    "url": "https://www.greecomfort.com/faqs/",
+    "notes": "Official FAQ snippets for selected codes across GREE systems."
+  },
+  "gree_troubleshoot_tool": {
+    "brand": "Gree",
+    "source_type": "official",
+    "title": "GREE Comfort Troubleshoot Error Codes Tool",
+    "url": "https://www.greecomfort.com/troubleshoot-error-codes/",
+    "notes": "Official error-code lookup for contractors."
+  },
+  "mitsubishi_mrslim_error_chart": {
+    "brand": "Mitsubishi Electric",
+    "source_type": "regional_official",
+    "title": "Mitsubishi Electric Mr. Slim Error Code Chart",
+    "url": "https://www.mitsubishielectric.com.sg/getmedia/1a8fe41a-9b17-49f2-a8b5-3e4842aa99ba/MrSlimerrorCode.pdf",
+    "notes": "Mr. Slim split / cassette / duct style diagnostic chart."
+  },
+  "samsung_hvac_service_guide": {
+    "brand": "Samsung",
+    "source_type": "official",
+    "title": "Samsung HVAC Service Guides",
+    "url": "https://www.samsunghvac.com/service-guides-bulletins/service-guide",
+    "notes": "Official service-guide landing page summarizing supported codes and selected meanings."
+  },
+  "lg_official_ch05": {
+    "brand": "LG",
+    "source_type": "official",
+    "title": "LG CH05 Help Library",
+    "url": "https://www.lg.com/levant_en/support/product-help/CT20158041-20154710741275",
+    "notes": "Official article for communication error on system air conditioners."
+  },
+  "lg_official_ch38": {
+    "brand": "LG",
+    "source_type": "official",
+    "title": "LG CH38 Help Library",
+    "url": "https://www.lg.com/in/support/product-support/troubleshoot/help-library/cs-CT32003422-20151571303430/",
+    "notes": "Official article stating CH38 relates to low refrigerant protection."
+  },
+  "haier_forward_service_manual": {
+    "brand": "Haier",
+    "source_type": "official",
+    "title": "Haier Forward Series Service Manual",
+    "url": "https://www.haierappliances.com/content/downloads/ductless/Forward-Series/Haier-Forward-Series-Service-Manual.pdf",
+    "notes": "Ductless / split service manual with indoor and outdoor codes."
+  },
+  "hisense_lcac_fault_codes": {
+    "brand": "Hisense",
+    "source_type": "regional_official",
+    "title": "Hisense LCAC Fault Codes",
+    "url": "https://www.hs-cs.nl/media/hxip5qke/storingscodes-hisense-pac.pdf",
+    "notes": "Commercial LCAC fault-code chart."
+  },
+  "aux_official_error_codes": {
+    "brand": "AUX",
+    "source_type": "official",
+    "title": "AUX Error Codes",
+    "url": "https://www.auxair.com/global/error-codes.html",
+    "notes": "Official AUX error-code table."
+  },
+  "vestel_bio_plus_manual": {
+    "brand": "Vestel",
+    "source_type": "official",
+    "title": "Vestel Bio Plus Inverter Manual",
+    "url": "https://static.vestel.com.tr/kullanimkilavuzlari/bio-plus-inv-en.pdf",
+    "notes": "User/protection-code style messages; less diagnostic depth than service manuals."
+  },
+  "beko_bmvih_manual": {
+    "brand": "Beko",
+    "source_type": "official",
+    "title": "Beko BMVIH Split Type User Manual",
+    "url": "https://www.beko.com/content/dam/iraq-iq-aem/iraq-iq-aemProductCatalog/product-documents/8512923200-BMVIH-120-BMVIH-121/en-US-8512923200-MDM2-USER-MANUAL-FILE-en-US.pdf",
+    "notes": "User-manual level code list."
+  }
+}

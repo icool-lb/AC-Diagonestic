@@ -1,0 +1,93 @@
+[
+  {
+    "id": "SYM-01",
+    "label_ar": "الوحدة لا تبرد",
+    "label_en": "Unit not cooling",
+    "targets": [
+      "communication",
+      "compressor_drive",
+      "refrigerant_pressure",
+      "sensor"
+    ]
+  },
+  {
+    "id": "SYM-02",
+    "label_ar": "المروحة تعمل لكن لا يوجد تبريد",
+    "label_en": "Fan runs but no cooling",
+    "targets": [
+      "refrigerant_pressure",
+      "compressor_drive",
+      "communication"
+    ]
+  },
+  {
+    "id": "SYM-03",
+    "label_ar": "الوحدة تفصل بعد دقائق",
+    "label_en": "Stops after a few minutes",
+    "targets": [
+      "refrigerant_pressure",
+      "power_voltage",
+      "fan_motor",
+      "protection_misc"
+    ]
+  },
+  {
+    "id": "SYM-04",
+    "label_ar": "نزول ماء من الداخلي",
+    "label_en": "Water leaking from indoor",
+    "targets": [
+      "drain_water"
+    ]
+  },
+  {
+    "id": "SYM-05",
+    "label_ar": "ضعف هواء / المروحة لا تعمل",
+    "label_en": "Weak airflow / fan not working",
+    "targets": [
+      "fan_motor",
+      "sensor"
+    ]
+  },
+  {
+    "id": "SYM-06",
+    "label_ar": "القاطع يفصل أو فولتية غير طبيعية",
+    "label_en": "Breaker trips / voltage abnormal",
+    "targets": [
+      "power_voltage",
+      "compressor_drive"
+    ]
+  },
+  {
+    "id": "SYM-07",
+    "label_ar": "خطأ تواصل داخلي خارجي",
+    "label_en": "Indoor-outdoor communication error",
+    "targets": [
+      "communication"
+    ]
+  },
+  {
+    "id": "SYM-08",
+    "label_ar": "الحرارة غير مستقرة أو قراءة خاطئة",
+    "label_en": "Wrong temperature reading",
+    "targets": [
+      "sensor",
+      "pcb_memory"
+    ]
+  },
+  {
+    "id": "SYM-09",
+    "label_ar": "نقص غاز أو ضغط غير طبيعي",
+    "label_en": "Low gas / pressure abnormal",
+    "targets": [
+      "refrigerant_pressure"
+    ]
+  },
+  {
+    "id": "SYM-10",
+    "label_ar": "عطل بورد أو EEPROM",
+    "label_en": "Board / EEPROM fault",
+    "targets": [
+      "pcb_memory"
+    ]
+  }
+]
